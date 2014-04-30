@@ -19,5 +19,5 @@ Apache, PHP5.4 having DOM,ZIP modules, LINUX
 
 Information
 ==================
-This version of class is under development.
+This class is working fine exactly, tested as well.
 Developers: Please help in developing and improving the class.
